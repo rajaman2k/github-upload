@@ -112,3 +112,19 @@ h4{
     top: 6px;
     right: 6px;
 }
+
+.links{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+.links:hover{
+    cursor:pointer;
+}
+
+img{
+    height:30px;
+    width:30px;
+    border-radius:10px;
+}
